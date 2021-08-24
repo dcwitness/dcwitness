@@ -1,0 +1,4 @@
+- 👋 @dcwitness is a criminal justice reporting nonprofit with locations in Washington, D.C. and Baltimore, M.D.
+- 👀 Young journalists cover court proceedings and publish articles every day. @dcwitness collects its own data on homicide, domestic violence, and sex abuse cases for research & analysis.
+- 🌱 All rights reserved for @dcwitness data in public repositories.
+- 📫 info@dcwitness.org
